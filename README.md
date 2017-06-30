@@ -19,7 +19,8 @@ div {
 Passing the 'test.css' file as argument/option to the tool
 ```sh
 $ python css-prefix.py test.css
-Done Generated file :  should_make_compatible.css
+Done !!
+Generated file : should_make_compatible.css
 ```
 
 Cheaking the genrated file 
