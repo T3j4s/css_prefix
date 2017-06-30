@@ -1,0 +1,7 @@
+div {
+	column-count: 3;
+	background: red;width:300px;
+	
+	-webkit-animation: 2s infinite;
+	background: linear-gradient(red,yellow,blue);
+}
