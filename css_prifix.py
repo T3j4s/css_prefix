@@ -74,6 +74,6 @@ def main():
     read_f.close()
     write_f.close()
     conn.close()
-    print "Done Generated file : ", output_file, "\n" 
+    print "Done !!\n Generated file : ", output_file, "\n" 
 
 main()
